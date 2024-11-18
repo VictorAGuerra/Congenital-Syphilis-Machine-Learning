@@ -2,9 +2,9 @@
 
 ## Membros
 
-- Leonardo M. Azevedo | @LeonardoMSA
-- Matheus V. Bione | @Mavebibo
-- Victor A. Guerra | @VictorAGuerra
+- Leonardo Menezes Soares de Azevedo | @LeonardoMSA
+- Matheus Vellez Bione Botelho | @Mavebibo
+- Victor Aroucha Guerra | @VictorAGuerra
 
 ## Disciplina
 
