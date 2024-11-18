@@ -2,9 +2,9 @@
 
 ## Membros
 
-- LeonardoMSA
-- Mavebibo
-- VictorAGuerra
+- Leonardo M. Azevedo | @LeonardoMSA
+- Matheus V. Bione | @Mavebibo
+- Victor A. Guerra | @VictorAGuerra
 
 ## Disciplina
 
